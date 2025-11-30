@@ -27,10 +27,10 @@ Pellentesque ornare tincidunt purus, quis semper ante congue quis. Proin ut nisi
 
 </div>
 
-> [!note]
+> [!note] al margen
 > Contenido
 
-> [!warning]
+> [!warning] cuidado
 > Alerta
 
 > [!info] Título custom
