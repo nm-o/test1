@@ -5,7 +5,10 @@ date: 01/03/2025
 
 Inicio de prueba
 
-![[hola.png]]
+<figure style="text-align: center;">
+  <img src="hola.png" alt="Una vaca">
+  <figcaption>Fig 1: Una vaca</figcaption>
+</figure>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor ullamcorper hendrerit. Maecenas congue purus quis ante facilisis, id finibus augue tempus. Suspendisse iaculis ornare felis eu feugiat. Etiam ac sodales lorem. Praesent non felis nec odio sagittis tincidunt vel et augue. Aenean fermentum rhoncus magna non malesuada. Fusce eu tellus sollicitudin, maximus velit a, blandit odio. Ut nisi ex, pulvinar quis tellus in, bibendum varius felis. Quisque quis eros in purus pretium tempus quis vel felis. Proin sollicitudin leo id tristique faucibus.
 
