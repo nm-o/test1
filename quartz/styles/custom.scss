@@ -1,3 +1,6 @@
 @use "./base.scss";
-
+article {
+  text-align: justify;
+  hyphens: auto; // opcional: mejora justificación
+}
 // put your custom CSS here!
