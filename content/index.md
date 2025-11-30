@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Pagina prueba 1
+date: 01/03/2025
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+infofrmacion d prueba
